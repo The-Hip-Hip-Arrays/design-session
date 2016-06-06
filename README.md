@@ -1,28 +1,6 @@
 # Design-session
 Newsletter sign up sheet
 
-* What would your overall app do?
-
-Collect sign up data for a coding newsletter.
-
-* Who is your user?
-
-Developers or future developers
-
-* Why do they need to input data?
-
-So we can send them the newsletter and segmentate the information. Targeted campaigns based on language or gender. Collect suggestions from free text box.
-
-* When/Where are they going to be inputting data?
-
-At a meetup or event. After clicking the link on our website.
-
-* How are they going to input data? (Mobile device)
-
-Checkboxes, dropdowns, text area
-
-* How will you enhance the user experience?
-
 ## What?
 Webform to collect sign-up data for daily coding newsletter aimed at developers or future developers.
 
