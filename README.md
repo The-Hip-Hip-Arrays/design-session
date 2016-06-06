@@ -1,7 +1,5 @@
 # design-session
 Newsletter sign up sheet
-# design-session
-Newsletter sign up sheet
 
 
 * What would your overall app do?
