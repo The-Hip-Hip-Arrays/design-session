@@ -1,6 +1,3 @@
-# Design-session
-Newsletter sign up sheet
-
 ## What?
 Webform to collect sign-up data for daily coding newsletter aimed at developers or future developers.
 
